@@ -12,11 +12,11 @@ A Clone Website of Zomato
 
 <body>
     <header>
-            <div class="logo"><img src="logo.png" alt="Swiggy Logo"> </div>
+            <div class="logo"><img src="logo.png" alt="logo"> </div>
             <ul>
-                <li><a href="/swiggycorporate.html">Swiggy Corporate</a></li>
-                <li><a href="/partner.html">Partner With Us</a></li>
-                <li><a href="/signup">Sign Up</a></li>
+                <li><a href="/zomato.html">zomato</a></li>
+                <li><a href="/login">login</a></li>
+                <li><a href="/signup.html">Sign Up</a></li>
             </ul>
     </header>
     <main>
